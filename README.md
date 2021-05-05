@@ -3,13 +3,15 @@
 My name is Jordan Newberry, and I am a professional chef turned programmer. I spent 10 years in a challenging, fast-paced work environment.
 I'm working on taking those skills and applying them to programming and learning.
 
+I graduated from [Prime Digital Academy](www.primedigitalacademy.io)'s Full Stack Engineering program in February of 2021. We focused on learning Full Stack web development using the JS based framework React as part of the PERN stack. (PostgreSQL, Express, React, & Node) 
+
 - 🌱 I’m currently learning ... 
-  - javaScript
-  - jQuery
-  - CSS
-  - HTML5
+  - Python
+  - C#
   - React
-  - ... and more all at [Prime Digital Academy](www.primedigitalacademy.io)
+  - CSS3 & styling (always learning this one)
+  - Xamarin
+  - ... and anything else that may catch my eye!
   
 - 💬 Ask me about ...
   - Movies (love ANYTHING martial arts, comedy, and court-room thrillers)
