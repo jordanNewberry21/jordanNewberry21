@@ -11,6 +11,7 @@ I graduated from [Prime Digital Academy](www.primedigitalacademy.io)'s Full Stac
   - React
   - CSS3 & styling (always learning this one)
   - Xamarin
+  - Angular
   - ... and anything else that may catch my eye!
   
 - 💬 Ask me about ...
